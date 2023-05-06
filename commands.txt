@@ -1,0 +1,6 @@
+start by creating a package json file <npm init -y>
+then to install the dependencies <npm i json-server cors json-serve>
+then add a .gitignore file and add node_modules to it.
+add some code for the server to index.js 
+
+go to package json file and add "start" : "node index.js"
